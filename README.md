@@ -1,2 +1,2 @@
-# decimal
-AngularJs directive to input only floating point numbers, with advanced features
+# AngularJs directive for floating point numbers only
+AngularJs directive to allow the input of floating point numbers, with additional features including
